@@ -134,3 +134,5 @@ my_keras_model.h5
 my_keras_weights.ckpt.data-00000-of-00001
 my_keras_weights.ckpt.index
 images/
+my_logs/
+*.png
